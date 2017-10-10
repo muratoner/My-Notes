@@ -8,3 +8,6 @@
 
 #### Frameworks
 1. [Bridge.NET](http://bridge.net/) - Open Source C# to JavaScript Compiler and Frameworks. Run Your App On Any Device Using JavaScript.
+### Javascript
+#### Libraries
+1. [JSZip](https://stuk.github.io/jszip/) - JSZip is a javascript library for creating, reading and editing .zip files, with a lovely and simple API.
