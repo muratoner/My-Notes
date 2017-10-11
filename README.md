@@ -6,7 +6,7 @@
 2. [Simple-MAPI.NET](https://github.com/PandaWood/Simple-MAPI.NET) - A .NET wrapper around Simple MAPI - a set of functions and related data structures to add messaging functionality to Windows-based apps.
 3. [Json.NET](https://www.newtonsoft.com) - Json.NET is a popular high-performance JSON framework for .NET
 4. [Text Control](https://www.textcontrol.com/) - ReportingCloud makes the Text Control reporting functionality accessible to all platforms and programming languages, using a highly available RESTful Web API.
-
+5. [ExpressManager](http://www.expressmapper.org/) - ExpressMapper it is lightweight and easy to use .Net mapper to map one type of object(s) to another. ExpressMapper relies completely on the expression trees. Just imagine when you need to map domain model (data entity) to your DTO (viewmodel or data contract) in almost all cases it is a not exciting and boring routing to do. Just take a look at the example when it is done manually. [You can use this library for multi platform. Desktop, Web, Mobile e.g.]
 #### Frameworks
 1. [Bridge.NET](http://bridge.net/) - Open Source C# to JavaScript Compiler and Frameworks. Run Your App On Any Device Using JavaScript.
 
