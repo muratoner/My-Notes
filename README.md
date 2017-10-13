@@ -16,3 +16,9 @@
 ### Javascript
 #### Libraries
 1. [JSZip](https://stuk.github.io/jszip/) - JSZip is a javascript library for creating, reading and editing .zip files, with a lovely and simple API.
+
+
+## Mobile Development
+### Xamarin Forms
+#### Libraries
+1. [Acr.UserDialogs](https://github.com/aritchie/userdialogs) - A cross platform library that allows you to call for standard user dialogs from a shared/portable library, Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun.
