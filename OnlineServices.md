@@ -14,4 +14,4 @@ And provides suggestions to fix and improve them, with references to protocolsâ€
 
 # Playgrounds
 ## Mixed
--- [StackBlitz](https://stackblitz.com/) - Online VS Code IDE for Angular & React.
+- [StackBlitz](https://stackblitz.com/) - Online VS Code IDE for Angular & React.
