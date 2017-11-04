@@ -18,7 +18,7 @@
 1. [JSZip](https://stuk.github.io/jszip/) - JSZip is a javascript library for creating, reading and editing .zip files, with a lovely and simple API.
 2. [IdeaBox News Reader](http://tevratgundogdu.com/works/newsticker/index.html) - jQuery news ticker reader plugin.
 3. [Jquery.barrager.js](http://yaseng.org/jquery.barrager.js/) - Different and a beautify jquery news ticker plugin.
-4. [https://github.com/Liinkiing/jquery-timelify](https://github.com/Liinkiing/jquery-timelify) - A little plugin I've made to create simple timeline
+4. [jQuery Timelify](https://github.com/Liinkiing/jquery-timelify) - A little plugin I've made to create simple timeline
 ### CSS
 #### Libraries
 1. [Weather Icons](http://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!
