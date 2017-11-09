@@ -22,6 +22,7 @@
 5. [slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
 6. [moment.js](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.
 7. [moment-duration-format](https://github.com/jsmreese/moment-duration-format) - Format plugin for the Moment Duration object. This is a plugin to the Moment.js JavaScript date library to add comprehensive formatting to Moment Durations. Format template grammar is patterned on the existing Moment Date format template grammar, with a few modifications because durations are fundamentally different from dates.
+8. [GoJS](https://gojs.net/) - Interactive JavaScript Diagrams in HTML
 ### CSS
 #### Libraries
 1. [Weather Icons](http://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!
