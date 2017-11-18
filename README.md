@@ -24,7 +24,7 @@
 7. [moment-duration-format](https://github.com/jsmreese/moment-duration-format) - Format plugin for the Moment Duration object. This is a plugin to the Moment.js JavaScript date library to add comprehensive formatting to Moment Durations. Format template grammar is patterned on the existing Moment Date format template grammar, with a few modifications because durations are fundamentally different from dates.
 8. [GoJS](https://gojs.net/) - Interactive JavaScript Diagrams in HTML
 9. [jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
-10. [multi-select.js](https://github.com/lou/multi-select/) - I'm a user-friendlier drop-in replacement for the standard <select> with multiple attribute activated.
+10. [multi-select.js](https://github.com/lou/multi-select/) - I'm a user-friendlier drop-in replacement for the standard select with multiple attribute activated.
 ### CSS
 #### Libraries
 1. [Weather Icons](http://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!
