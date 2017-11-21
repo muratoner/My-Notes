@@ -25,6 +25,7 @@
 8. [GoJS](https://gojs.net/) - Interactive JavaScript Diagrams in HTML
 9. [jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
 10. [multi-select.js](https://github.com/lou/multi-select/) - I'm a user-friendlier drop-in replacement for the standard select with multiple attribute activated.
+11. [JSDoc 3](http://usejsdoc.org) - JSDoc 3 is an API documentation generator for JavaScript, similar to Javadoc or phpDocumentor. You add documentation comments directly to your source code, right alongside the code itself. The JSDoc tool will scan your source code and generate an HTML documentation website for you.
 ### CSS
 #### Libraries
 1. [Weather Icons](http://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!
