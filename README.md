@@ -29,6 +29,8 @@
 12. [Alertify.js](https://alertifyjs.org) - Alertify.js is a small library which provides light-weight, high performance browser dialogs. Since it uses only 1 HTTP request and a payload of less than 3kB, it's a great option for adding basic style to alert, dialog, prompt and log messages even on low bandwidth connections.
 13. [Alertify.js Dialog](http://alertifyjs.com/) - AlertifyJS is a javascript framework for developing pretty browser dialogs and notifications.
 14. [toastr](https://github.com/CodeSeven/toastr) - toastr is a Javascript library for Gnome / Growl type non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
+15. [jGrowl](https://github.com/stanlemon/jGrowl) - jGrowl is a jQuery plugin that raises unobtrusive messages within the browser, similar to the way that OS X's Growl Framework works. The idea is simple, deliver notifications to the end user in a noticeable way that doesn't obstruct the work flow and yet keeps the user informed.
+16. [notie](https://jaredreich.com/notie) - A clean and simple notification, input, and selection suite for javascript, with no dependencies.
 ### CSS
 #### Libraries
 1. [Weather Icons](http://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!
