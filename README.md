@@ -34,6 +34,7 @@
 17. [fancybox](http://fancyapps.com/fancybox/) -fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built on the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.
 18. [hammerjs](http://hammerjs.github.io/) - Hammer is a open-source library that can recognize gestures made by touch, mouse and pointerEvents. It doesn’t have any dependencies, and it’s small, only 7.34 kB minified + gzipped!
 19. [ng-map](https://ngmap.github.io/) - The Simplest Way To Show A Google Map in AngularJS 1.*
+20. [SELECT2](https://select2.org/) - Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options.
 #### Tutorials
 1. [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial, How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 ### CSS
