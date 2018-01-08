@@ -34,6 +34,8 @@
 17. [fancybox](http://fancyapps.com/fancybox/) -fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. It is built on the top of the popular JavaScript framework jQuery and is both easy to implement and a snap to customize.
 18. [hammerjs](http://hammerjs.github.io/) - Hammer is a open-source library that can recognize gestures made by touch, mouse and pointerEvents. It doesn’t have any dependencies, and it’s small, only 7.34 kB minified + gzipped!
 19. [ng-map](https://ngmap.github.io/) - The Simplest Way To Show A Google Map in AngularJS 1.*
+#### Tutorials
+1. [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial, How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 ### CSS
 #### Libraries
 1. [Weather Icons](http://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!
