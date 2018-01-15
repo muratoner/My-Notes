@@ -35,6 +35,7 @@
 18. [hammerjs](http://hammerjs.github.io/) - Hammer is a open-source library that can recognize gestures made by touch, mouse and pointerEvents. It doesn’t have any dependencies, and it’s small, only 7.34 kB minified + gzipped!
 19. [ng-map](https://ngmap.github.io/) - The Simplest Way To Show A Google Map in AngularJS 1.*
 20. [Select2](https://select2.org/) - Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options.
+21. [Uppy File Uploader](https://uppy.io/) - Uppy is a sleek, modular file uploader that integrates seamlessly with any framework. It fetches files from local disk, Google Drive, Dropbox, Instagram, remote URLs, cameras and other exciting locations, and then uploads them to the final destination. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 #### Tutorials
 1. [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial, How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 ### CSS
