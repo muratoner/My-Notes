@@ -45,3 +45,6 @@
 ### Xamarin Forms
 #### Libraries
 1. [Acr.UserDialogs](https://github.com/aritchie/userdialogs) - A cross platform library that allows you to call for standard user dialogs from a shared/portable library, Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun.
+## Graphic Designer
+### Online Tools
+[Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
