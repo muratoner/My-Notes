@@ -36,6 +36,8 @@
 19. [ng-map](https://ngmap.github.io/) - The Simplest Way To Show A Google Map in AngularJS 1.*
 20. [Select2](https://select2.org/) - Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options.
 21. [Uppy File Uploader](https://uppy.io/) - Uppy is a sleek, modular file uploader that integrates seamlessly with any framework. It fetches files from local disk, Google Drive, Dropbox, Instagram, remote URLs, cameras and other exciting locations, and then uploads them to the final destination. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
+#### Component Pack
+1. [https://github.com/nhnent](Toast UI Components) - Chart, Grid, Tree, Editor, Different pickers and has different more different component in Toast UI Components.
 #### Tutorials
 1. [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial, How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 ### CSS
