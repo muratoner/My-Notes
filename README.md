@@ -47,6 +47,7 @@
 1. [Weather Icons](http://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!
 2. [cssreference.io](http://cssreference.io/) - Learn by example: cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 3. [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+4. [Modulr.css](https://github.com/uloga/modulr.css) - A fast and easy modular approach to building powerful web and mobile interfaces.
 ## Mobile Development
 ### Xamarin Forms
 #### Libraries
