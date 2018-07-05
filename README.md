@@ -39,7 +39,7 @@
 22. [Glide.js](https://glidejs.com) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more.
 23. [Popper.js](https://github.com/FezVrasta/popper.js) - A library used to position poppers in web applications.
 #### Component Pack
-1. [https://github.com/nhnent](Toast UI Components) - Chart, Grid, Tree, Editor, Different pickers and has different more different component in Toast UI Components.
+1. [Toast UI Components](https://github.com/nhnent) - Chart, Grid, Tree, Editor, Different pickers and has different more different component in Toast UI Components.
 #### Tutorials
 1. [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial, How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 ### CSS
