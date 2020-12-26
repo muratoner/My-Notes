@@ -40,12 +40,9 @@
 23. [Popper.js](https://github.com/FezVrasta/popper.js) - A library used to position poppers in web applications.
 #### Component Pack
 1. [Toast UI Components](https://github.com/nhnent) - Chart, Grid, Tree, Editor, Different pickers and has different more different component in Toast UI Components.
-#### Tutorials
-1. [javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial, How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 ### CSS
 #### Libraries
 1. [Weather Icons](http://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into Bootstrap, or any project that needs high quality weather, maritime, and meteorological based icons!
-2. [cssreference.io](http://cssreference.io/) - Learn by example: cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 3. [UIkit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 4. [Modulr.css](https://github.com/uloga/modulr.css) - A fast and easy modular approach to building powerful web and mobile interfaces.
 ## Mobile Development
@@ -57,6 +54,3 @@
 ### Xamarin Forms
 #### Libraries
 1. [Acr.UserDialogs](https://github.com/aritchie/userdialogs) - A cross platform library that allows you to call for standard user dialogs from a shared/portable library, Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun.
-## Graphic Designer
-### Online Tools
-[Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
